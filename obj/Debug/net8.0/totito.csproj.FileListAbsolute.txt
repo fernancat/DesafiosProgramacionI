@@ -1,0 +1,14 @@
+/home/fernan/Projects/totito/bin/Debug/net8.0/totito
+/home/fernan/Projects/totito/bin/Debug/net8.0/totito.deps.json
+/home/fernan/Projects/totito/bin/Debug/net8.0/totito.runtimeconfig.json
+/home/fernan/Projects/totito/bin/Debug/net8.0/totito.dll
+/home/fernan/Projects/totito/bin/Debug/net8.0/totito.pdb
+/home/fernan/Projects/totito/obj/Debug/net8.0/totito.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernan/Projects/totito/obj/Debug/net8.0/totito.AssemblyInfoInputs.cache
+/home/fernan/Projects/totito/obj/Debug/net8.0/totito.AssemblyInfo.cs
+/home/fernan/Projects/totito/obj/Debug/net8.0/totito.csproj.CoreCompileInputs.cache
+/home/fernan/Projects/totito/obj/Debug/net8.0/totito.dll
+/home/fernan/Projects/totito/obj/Debug/net8.0/refint/totito.dll
+/home/fernan/Projects/totito/obj/Debug/net8.0/totito.pdb
+/home/fernan/Projects/totito/obj/Debug/net8.0/totito.genruntimeconfig.cache
+/home/fernan/Projects/totito/obj/Debug/net8.0/ref/totito.dll
