@@ -1,0 +1,14 @@
+/home/fernan/Projects/desafio3/bin/Debug/net8.0/desafio3
+/home/fernan/Projects/desafio3/bin/Debug/net8.0/desafio3.deps.json
+/home/fernan/Projects/desafio3/bin/Debug/net8.0/desafio3.runtimeconfig.json
+/home/fernan/Projects/desafio3/bin/Debug/net8.0/desafio3.dll
+/home/fernan/Projects/desafio3/bin/Debug/net8.0/desafio3.pdb
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/desafio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/desafio3.AssemblyInfoInputs.cache
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/desafio3.AssemblyInfo.cs
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/desafio3.csproj.CoreCompileInputs.cache
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/desafio3.dll
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/refint/desafio3.dll
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/desafio3.pdb
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/desafio3.genruntimeconfig.cache
+/home/fernan/Projects/desafio3/obj/Debug/net8.0/ref/desafio3.dll
